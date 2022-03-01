@@ -1,0 +1,379 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. George Keith, at Turners-Hall in Philpot-Lane, London, in 1696. Contradicting Mr. George Keith, at the Tolbooth of Aberdeen, in 1688. In fundamental points of the Christian faith. Demonstrated by quotations out of The exact narrative of the proceedings at Turners-Hall, &amp;c. on the one hand: and quotations out of Immediate revelation not ceased, on the other hand. In a letter to himself. / By a moderate church man.</title>
+            <author>Moderate church man.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01962</idno>
+            <idno type="STC">Wing C160</idno>
+            <idno type="STC">ESTC R170341</idno>
+            <idno type="EEBO-CITATION">52211720</idno>
+            <idno type="OCLC">ocm 52211720</idno>
+            <idno type="VID">175452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175452)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2737:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. George Keith, at Turners-Hall in Philpot-Lane, London, in 1696. Contradicting Mr. George Keith, at the Tolbooth of Aberdeen, in 1688. In fundamental points of the Christian faith. Demonstrated by quotations out of The exact narrative of the proceedings at Turners-Hall, &amp;c. on the one hand: and quotations out of Immediate revelation not ceased, on the other hand. In a letter to himself. / By a moderate church man.</title>
+                  <author>Moderate church man.</author>
+                  <author>W. C.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by E. Whitlock, in Stationers-Court, near Stationers-Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: W.C.</note>
+                  <note>Imperfect: stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the University of Texas, Austin Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Keith, George, 1639?-1716. --  Exact narrative of the proceedings at Turners-Hall.</term>
+               <term>Keith, George, 1639?-1716. --  Immediate revelation.</term>
+               <term>Society of Friends --  Controversial literature --  Early works to 1800.</term>
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175452:1"/>
+            <p>
+               <hi>Mr. George Keith.</hi>
+            </p>
+            <p>At <hi>Turners-Hall</hi> in <hi>Philpot-Lane, London,</hi> in 1696.</p>
+            <p>CONTRADICTING Mr. Geo. Keith, At the <hi>Tolbooth</hi> of <hi>ABERDEEN,</hi> in 1668.</p>
+            <p>IN Fundamental POINTS OF THE <hi>CHRISTIAN FAITH.</hi>
+            </p>
+            <p>DEMONSTRATED By Quotations out of <hi>The Exact Narrative of the Proceedings at</hi> Turners-Hall, <hi>&amp;c.</hi> on the one hand: AND Quotations out of <hi>Immediate Revelation not Ceaſed,</hi> on the other hand.</p>
+            <p>In a LETTER to Himſelf.</p>
+            <p>
+               <hi>By a Moderate Church man.</hi>
+            </p>
+            <p>
+               <hi>Conveniet nulli, qui ſecum diſſidet ipſe.</hi>
+            </p>
+            <p>
+               <hi>London</hi> Printed, and Sold by <hi>E. Whitlock,</hi> in <hi>Stationers-Court,</hi> near <hi>Stationers-Hall.</hi> 1696.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:175452:2"/>
+            <head>Mr. <hi>George Keith,</hi> at <hi>Turners-Hall</hi> in <hi>Philpot-lane,</hi> in <hi>London, 1696.</hi> Contradicting Mr. <hi>Geo. Keith,</hi> at the <hi>Tolbooth</hi> of <hi>Aberdeen,</hi> in <hi>1668.</hi> in Fun<g ref="char:EOLhyphen"/>damental Points of the Chriſtian Faith, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <hi>Mr.</hi> K<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith,</salute>
+            </opener>
+            <p>THE Controverſie between you and the <hi>Quakers</hi> of late Years, hath made ſuch a Noiſe, not only in <hi>America,</hi> where (I un<g ref="char:EOLhyphen"/>derſtand) it firſt began, but alſo in theſe parts of <hi>Europe,</hi> that he who in this populous City hath heard nothing of it, muſt likewiſe have been Baniſhed from Humane Society. It hath been not only the Diſcourſe of Porters and Carmen over a Pot of Ale, and Sparks and Beau's over a Glaſs of Wine; but alſo the Grave Cit over a Diſh of Coffee, hath mixt his Obſervations upon State Affairs, with his Reflections upon the <hi>Quakers</hi> Differences: Nay, moreover the <hi>Reverend Clergy</hi> of the <hi>Church</hi> of <hi>England</hi> (not to mention the <hi>Non Cons</hi>) have been ſometimes pleaſed to take no<g ref="char:EOLhyphen"/>tice of them in the Pulpit. Wonder not then, that an unknown Perſon ſhould apply himſelf to you after this manner: For I being inſtigated by a ſort of Curioſity, have taken the pains to peruſe ma<g ref="char:EOLhyphen"/>ny, if not moſt of the Controverſial Treatiſes, publiſhed both by your ſelf, and your preſent Antagoniſts (though late Friends) the <hi>Quakers:</hi> And amongſt the reſt, your <hi>Advertiſement</hi> of a Meeting to be held at <hi>Turners-Hall,</hi> on the 11th of <hi>June,</hi> 1696. wherein you Challenged (as I may ſo ſay) Mr. <hi>W. Penn,</hi> Mr. <hi>G. Whitehead,</hi> Mr. <hi>T. Ellwood,</hi> and Mr. <hi>J. Penington,</hi> to meet you. Thither I alſo came, amongſt other Spectators, to obſerve the Management of the Diſpute: But when I came there, found your Adverſaries declined meeting you, and ſo you went on to Diſpute by your ſelf, thoſe few <hi>Quakers</hi> that now and then put in a word or two, not pretending (as I apprehended) to engage with you on behalf of their Friends: How Matters would have iſſued, if your <hi>Opponents</hi> had appeared, I
+<pb n="3" facs="tcp:175452:2"/> will not undertake to determine, but to your <hi>Honour</hi> be it ſpoken, who (I ſuppoſe) may be the <hi>ſole ſingle Diſputant</hi> of this Age, you came off with Flying Colours, haranguing your Auditory into an Applauſe of whatever you offered. Where ſome paſſages dropt, which upon peruſal of your Printed Account, I find in part there, which I ſhall take notice of by and by.</p>
+            <p>Now Sir, before I proceed to thoſe paſſages, I ſhall premiſe this, <hi>viz.</hi> That it is not my intent to interpoſe between you and the <hi>Quakers</hi> in Point of <hi>Doctrine,</hi> being reſolved not to concern my ſelf at preſent in Vindicating either the one or the other; but as you have began an Inteſtine War among your ſelves, if you cannot agree upon a Treaty of Peace, and ſo come to a mutual Reconciliation, you muſt, for ought I can ſee, e'en beat up one another's Quarters, and Fight it out, till one ſide yields up the Conqueſt: Whilſt I in the mean time, content my ſelf with adhering to the Primitive Purity of Doctrine held by the <hi>Apeſtolical Church</hi> of <hi>England.</hi> But perceiving you under a Cloud, I ſhould rejoice to ſee that Cloud diſperſt, and being as yet unſtable, to ſee you come to ſtability. Remember the Prophets Reproof and Advice, 1 <hi>Kings</hi> 18.21. <hi>How long halt ye be<g ref="char:EOLhyphen"/>tween two Opinions? If the Lord be God, follow him: But if</hi> Baal, <hi>then follow him.</hi> Which that it is ſo with you, I ſhall by and by prove by Quotations out of <hi>The Exact Narrative, &amp;c.</hi> oppoſed by Quotations out of a former Book of yours, Intituled, <hi>Immediate Revelation not Ceaſed, &amp;c.</hi> Perhaps you may object, That that was publiſhed a great while ago; but pray remember withal what you aſſerted at <hi>Turners-Hall,</hi> as it is related, p. 15. of <hi>The Exact Narrative,</hi> viz. <q>If you prove me not to have changed in any <hi>Fundamental</hi> Principle, ye ought not to Charge me to be an <hi>Apoſtate.</hi> I know not any Fun<g ref="char:EOLhyphen"/>damental Principle, nor indeed any ONE Principle of the <hi>Chriſti<g ref="char:EOLhyphen"/>an</hi> Faith, that I have varied from to this Day, ever ſince I came among the <hi>Quakers,</hi> which is about 33 Years ago, therefore I ought to be cleared of that Imputation.</q> Which Aſſertion of yours, I propoſe as the Baſis of my Building. But pray Sir, why did you conceal that part of the Aſſertion, wherein you affirmed, That in Fundamentals you were of the ſame Judgment while a <hi>Presbyterian</hi> as ſince? For to that purpoſe you did ſpeak, I am very certain, and be<g ref="char:EOLhyphen"/>lieve many that were there are able to juſtifie, which occaſioned me immediately to draw this Concluſion in my own Mind; ſurely, ei<g ref="char:EOLhyphen"/>ther Mr. <hi>Keith</hi> formerly underſtood not the <hi>Presbyterian</hi> Principles,
+<pb n="4" facs="tcp:175452:3"/> or ſince underſtood not the <hi>Quakers:</hi> Or elſe they are all one, and he one with them both, (which I ſuppoſe you will not grant). But if they are contradictory, (as I think they are) then conſequently, he either wanted Underſtanding, how to diſtinguiſh between things, which are as contrary, in divers reſpects, as Black is to White; (a Suſpicion highly derogatory to that Eminent Character of your great Learning, and Excellent Parts, for which you are generally ſo much applauded) or he muſt be very forgetful, and ſo not the Perſon he is repreſented to be for a vaſt Memory; and likewiſe inſincere, in that he will ſtand by nothing, any longer than he apprehends it ſuits with his Intereſt; or can eaſily ſay and unſay to gratifie a Paſſion or Humour.</p>
+            <p>In ſhort, Mr. <hi>Keith,</hi> if the <hi>Presbyterians</hi> and <hi>Quakers</hi> be one in <hi>Fundamentals,</hi> why did you forſake the <hi>former,</hi> and join with the <hi>latter?</hi> Was it becauſe you were diſappointed of an <hi>Expected Prefer<g ref="char:EOLhyphen"/>ment</hi> amongſt them? If the two Parties be not one in Fundamentals, Were you ſincere in joining with the <hi>Quakers,</hi> or no? If <hi>ſincere,</hi> Do you now own, that your Eyes were then ſo dim, that you could not ſee ſuch a Barn-door, as the Errors you now exclaim againſt, and that your EYES have ſince been OPENED? Then the leſs deſerv<g ref="char:EOLhyphen"/>ing the Preferment you once coveted amongſt the <hi>Presbyterians.</hi> If not ſincere then, What Society of People think you will Truſt you now? To whom can you give greater Security or Aſſurances of Fi<g ref="char:EOLhyphen"/>delity and Adherence to their Cauſe; than you ſeemed to give the <hi>Quakers?</hi> I hope the <hi>Reverend Clergy</hi> (on whom you appear now to fawn) will be well aſſured of your being more in Earneſt with them, than you have proved with your <hi>Old</hi> Friends, before they truſt you too much. If neither the <hi>Presbyterians</hi> nor <hi>Quakers</hi> are in the Right, How have you jugled with them both, thus to keep in one while with the one, another while with the other, and yet all this while, not<g ref="char:EOLhyphen"/>withſtanding they have been both in the wrong, and you at times joined to each of them, ſtill to hold your own Orthodox Principles during theſe ſeveral REVOLUTIONS. But if you ſhould ſay, You differed not in <hi>Fundamentals</hi> from one or both of theſe Sects. Then ſay I, The more unquiet Man you, to raiſe ſuch Diſturbances about <hi>Circumſtantials.</hi>
+            </p>
+            <p>However looking further, I find you expreſſing your ſelf thus, <hi>Exact Narrative,</hi> page 38. <q>But if I had known they had had ſuch Errours, I would as ſoon have put my Head in the Fire, [a very
+<pb n="5" facs="tcp:175452:3"/> hot Expreſſion; but I think you may ſave that pains, for your Head is hot enough already] as have owned ſuch among them: But I am of the ſame Faith as I have been above this Thirty Years.</q> Very well, here is firſt <hi>groſs Ignorance,</hi> you knew not they had ſuch Errours a<g ref="char:EOLhyphen"/>mong them, notwithſtanding your profeſſing your ſelf one of them. Secondly, Impli<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ite Faith with a Vengeance, notwithſtanding you knew not thoſe Errours, yet you owned ſuch among them, which is believing as the Church believes, without Search or Examination; nay, let me add, and Printing Bo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ks in Vindication of theſe Princi<g ref="char:EOLhyphen"/>ples, which you pretend you knew not. And yet, to make you a wonderful Man, in all the Branches of this wonderful Myſtery, you have kept your Faith untainted, notwithſtanding the Evil Communi<g ref="char:EOLhyphen"/>cation of theſe Corrupt Men. <hi>Credat Apella.</hi> Now for the Quota<g ref="char:EOLhyphen"/>tions I told you of before.</p>
+            <q>
+               <bibl>
+                  <hi>Exact Narrative,</hi> p. 20, 21.</bibl> And now take notice, (I would not miſconſtrue what I have Read) by <hi>William Penn</hi>'s Argument, a Man may be own<g ref="char:EOLhyphen"/>ed to be a Chriſtian, and yet disbelieve that Chriſt is either God or Man; if he own or pra<g ref="char:EOLhyphen"/>ctice a habit or quality of Mo<g ref="char:EOLhyphen"/>ral Vertue, as that of Juſtice, and Meekneſs, <hi>&amp;c.</hi>
+               <note n="*" place="margin">If you miſtate the Caſe I am not accoun<g ref="char:EOLunhyphen"/>table for that.</note> and pra<g ref="char:EOLhyphen"/>ctice accordingly, tho' he be<g ref="char:EOLhyphen"/>lieve not in Chriſt, if he have but ſome Moral Habits: So that here the <hi>Jew</hi> is the <hi>Chriſti<g ref="char:EOLhyphen"/>an,</hi> the <hi>Mahometan</hi> is the <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> the <hi>Pagan</hi> is the <hi>Chriſti<g ref="char:EOLhyphen"/>an,</hi> and the profeſſed <hi>Pelagian</hi> is the <hi>Chriſtian,</hi> though they deny any inward Supernatural Principle, and call the Light within only Natural, as many Sober and Moral Men do, <hi>&amp;c.</hi>
+            </q>
+            <q>
+               <pb n="6" facs="tcp:175452:4"/>
+               <bibl>Again, p. 42.</bibl> That Faith in the Man Chriſt without us, as he Died for us, Roſe again, and is gone into Heaven, wrought in us by the Spirit of Chriſt, is univerſally neceſſary to make Men true Chriſtians, and Chil<g ref="char:EOLhyphen"/>dren of God, Born of the Free Woman, who have the Spirit of Adoption, crying, <hi>Abba,</hi> Father.</q>
+            <q>
+               <pb n="5" facs="tcp:175452:3"/>
+               <bibl>
+                  <hi>Immediate Revelation,</hi> p. 108.</bibl> And the Believing <hi>Jews</hi> in <hi>Moſes</hi> time, made not a Church different from that in the time of the <hi>Apoſtles;</hi> and down<g ref="char:EOLhyphen"/>wards, all are one Church, and under one Covenant, and were ſaved by one Faith, in one Lord and Redeemer; though the Diſpenſations did differ in many Circumſtances, and theſe who ſucceeded, had more full and large Diſcoveries of the Myſtery; yet in ſubſtance, they all agreed, and were all one upon the Matter.</q>
+            <q>
+               <bibl>Again, p. 200.</bibl> That which makes one a true <hi>Chriſtian,</hi> and Saint, is the Spirit of Chriſt, the Anointing in him.</q>
+            <q>
+               <bibl>Again, p. 243, 244.</bibl> But I do moſt willingly grant, That the Preaching of Chriſt with<g ref="char:EOLhyphen"/>out
+<pb n="6" facs="tcp:175452:4"/> us, in his Birth, Life, Suf<g ref="char:EOLhyphen"/>fering, Death, Reſurrection, Aſcention, Interceſſion, <hi>&amp;c.</hi> is a very conſiderable part of the Doctrine of the Goſpel; yea, more than the Skin is a part of the Body of the Man, yet it is but an integral part of a Man, ſuch as the Hands and Feet of a Man, without which a Man may ſubſiſt, but not as an intire and compleat Man; and ſo may True Religion and CHRISTIANITY ſubſiſt, without the Hiſtory of Chriſt in the Letter, to wit, in the Myſtery of the Life of Chriſt in the Spirit, and yet, even here, where the Hiſto<g ref="char:EOLhyphen"/>ry is wanting, the Myſtery, or Inſide of Chriſtianity, is not with<g ref="char:EOLhyphen"/>out its Skin, or Outſide, namely, an Outward Confeſſion unto God, both in good Words, and good Works, according unto the Diſcovery of the Myſtery or Inſide its ſelf.</q>
+            <q>
+               <bibl>
+                  <hi>Exact Narrative,</hi> p. 21, 22.</bibl> Now you ſee how he makes Regeneration in a Believer, a greater Myſtery than the Ma<g ref="char:EOLhyphen"/>nifeſtation of the Son of God in his Body of Fleſh; <hi>How much more,</hi> ſaith he, <hi>is the Work of Regeneration a Myſtery?</hi> For the other here, 1 <hi>Tim.</hi> 3.16. he does not ſay it is a Myſtery, but he puts three <hi>ifs</hi> to it, If a Myſtery, <hi>&amp;c.</hi> Pray was our Bleſſed Lord a meer Shell? Was he like the <hi>Shell</hi> of an Egg, without the <hi>Meat</hi> of an Egg? Or was he like the <hi>Shell</hi> of any other Fruit, and no <hi>Kernel</hi> in it? Was there any Holineſs
+<pb n="7" facs="tcp:175452:4"/> ever in any Prophet or Apoſtle, but it is like a drop to the Ocean, to what was in our Bleſſed Lord? Therefore to compare the Work of Regeneration to the Incarnation of our Lord, ſo as to equal it, (he prefers it, and doth not e<g ref="char:EOLhyphen"/>qual it only) I Appeal to you, whe<g ref="char:EOLhyphen"/>ther it is not an Afominable Errour? And whether it doth not make every Regenerate Man, not only equal to the Man Chriſt, but greater? For we tru<g ref="char:EOLhyphen"/>ly Value any Man as more Holy, ac<g ref="char:EOLhyphen"/>cording as the Manifeſtation of God is more in one than in another.</q>
+            <q>
+               <bibl>
+                  <hi>Immediate Revelation,</hi> p. 59, 60.</bibl> —If Chriſt's Bodily preſence in the Fleſh was not ſufficient of its ſelf, to Miniſter, though he ſpoke as never Man ſpoke, yet I ſay, if this Miniſtration was not ſufficient, but a more Glorious they were to expect; and as they waited, they wit<g ref="char:EOLhyphen"/>neſſed it fulfilled, and come unto them: Then far leſs is the outward Adminiſtration of any other Man, or Men whom<g ref="char:EOLhyphen"/>ſoever, ſufficient for that ef<g ref="char:EOLhyphen"/>fect; for if Chriſt be not any more to be known after the Fleſh, much leſs any other Man; nor is Knowledge they
+<pb n="7" facs="tcp:175452:4"/> can receive from any other Man to reſted in, ſeeing the Knowledge Chriſt after the Fleſh was not ſuffi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ent, nor to be reſted in; but th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were to look for a better, a more clea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and full Manifeſtation in themſelve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> He appearing in a Spiritual, Gloriou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Heavenly, Myſterious way in the Hearts, even ſeen a way as the Wor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> cannot know him, or receive him which made <hi>Judas,</hi> (not <hi>Iſcariot</hi>) t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wonder and queſtion him, ſaying, <hi>Ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is it that thou wilt manifeſt thy ſelf unt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> us, and not unto the World.</hi>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Exact Narrative,</hi> p. 22.</bibl> We had wont to ſay, all other Pro<g ref="char:EOLhyphen"/>feſſions denied Chriſt within, but here <hi>J. Faldo</hi> owns Chriſt to be in the <hi>Gen<g ref="char:EOLhyphen"/>tiles</hi> rightly underſtood. But to me Chriſt Crucified, in whom the fulneſs dwelleth, is a <hi>greater Myſtery,</hi> and a greater Matter to be believed.</q>
+            <q>
+               <bibl>
+                  <hi>Immediate Revelation,</hi> p. 22.</bibl> Jeſus Chriſt revealed in Man, is th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Foundation of the true Church, and o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> every Member thereof in particular and therefore if the true Church re<g ref="char:EOLhyphen"/>main, this muſt remain alſo.</q>
+            <q>
+               <bibl>
+                  <hi>Exact Narrative,</hi> p. 23.</bibl> But though Regeneration is no ſlight thing, yet I ſay, comparing Chriſt's Incarnation, that is a Complex of My<g ref="char:EOLhyphen"/>ſteries, (a certain Writer ſhews a Com<g ref="char:EOLhyphen"/>plex of Twenty and more Myſteries, in that one Myſtery of Chriſt's Incar<g ref="char:EOLhyphen"/>nation) I ſay, comparing that with the Work of Regeneration, I do affirm the Work of Regeneration is a light thing, tho' not light in its ſelf.</q>
+            <q>
+               <bibl>
+                  <hi>Immediate Revelation,</hi> p. 120, 121.</bibl> And all theſe glorious things, both he in the Days of his Fleſh, and the Prophets before that his Appearance in that Body of Fleſh, declared, nei<g ref="char:EOLhyphen"/>ther only nor principally, concerning his Coming in the Fleſh; (namely, in that Veſſel, or Temple, which ap<g ref="char:EOLhyphen"/>peared at <hi>Jeruſalem</hi>) but mainly and principally concerning his Spiritual Appearance in his Saints, after his be<g ref="char:EOLhyphen"/>ing Crucified, Riſen, and Aſcended, for till then, the Son of <hi>Man</hi> was not glorified, <hi>Phil.</hi> 7.39. And though he was Bodily preſent with his Diſciples, yet he told them, they were to ſee greater
+<pb n="8" facs="tcp:175452:5"/> things, <hi>Phil.</hi> 1.50. And he ſaid, <hi>The Kingdom of God was at hand;</hi>
+               <note place="margin">I am not accountable for your Falſe Quota<g ref="char:EOLhyphen"/>tions.</note> and he taught them to pray for it; and he ſaid. <hi>There be ſtanding ſome among you, which ſhall not taſte of Death till they ſee the Kingdom of God come with great Power and Gl<g ref="char:EOLhyphen"/>ry:</hi> Whereby it is manifeſt, that theſe things relat, MAINLY to his coming again in Spirit, when it ſhould be poured out accordi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g to thoſe many Promiſes concerning the ſame, Recorded in the Prophets; an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as is ſaid before he told them, <hi>It was expedient he ſhould go away,</hi> that he might c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me again in a MORE GLORIOUS and Comfortable Appearance, by the Reve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ati<g ref="char:EOLhyphen"/>on of his Glorious Power in their Hearts, for his Kingdom was not of this World, but an Inward Kingdom; and he ſaid that it was within; and pointed to this Spiritual Appearance, by his Light in their Hearts, under many Parables and Figures, which he calls the Kingdom of God, <hi>Mat.</hi> 13.18, 19, <hi>&amp;c.</hi>
+            </q>
+            <q>
+               <bibl>Exact Narrative, <hi>Ibid.</hi>
+               </bibl> But the matter is, there is a Saving Faith of Chriſt without us, and Chriſt without us as he is both God and Man, the <hi>Emmanuel,</hi> as well as his inward Appearance in us, is the <hi>Object</hi> of Sa<g ref="char:EOLhyphen"/>ving Faith; but thoſe Men would not own it.</q>
+            <q>
+               <bibl>
+                  <hi>Immediate Revelation,</hi> p 231.</bibl> So that this Internal Revelation, Searching and Teſtimony, is the <hi>Foun<g ref="char:EOLhyphen"/>dation</hi> and Ground of my Faith (com<g ref="char:EOLhyphen"/>monly called the formal <hi>Object</hi> of Faith) for which I believe and aſſent unto the Truth of any part of the Scripture, and conſequently of the Hiſtory its ſelf, if my Faith be a Divine and Super<g ref="char:EOLhyphen"/>natural Faith, and not meerly Humane.</q>
+            <q>
+               <bibl>
+                  <hi>Exact Narrative,</hi> p. 46.</bibl> He ſays, "I have already cleared <hi>George Whitehead</hi> and <hi>William Penn,</hi> from that Charge, that they have not deſtroyed the Object of Faith. And I ſay, I have proved that they have deſtroyed the Object of Faith; if they have at other times owned it, let them diſown and <hi>retract</hi> their Errours; I am not to account for their Contra<g ref="char:EOLhyphen"/>dictions. They have Contradicted themſelves; they have Diſowned the Object of Faith; and if I have Charged them with it, this is no Contradiction in me, but in them."</q>
+            <q>
+               <bibl>
+                  <hi>Immediate Revelation,</hi> p. 4.</bibl> And if we are to partake of the ſame precious Faith, ſo alſo are we to par<g ref="char:EOLhyphen"/>take of the ſame precious Revelation, and Inſpiration of the Word of God, by which their Faith was wrought, and which was its OBJECT and <hi>Foundation,</hi> as alſo it is ours, and con<g ref="char:EOLhyphen"/>tinues to be the ſame in all Generations.</q>
+            <q>
+               <pb n="9" facs="tcp:175452:5"/>
+               <bibl>
+                  <hi>Exact Narrative,</hi> p. 26.</bibl>
+               <p>Now he ſays, It is contrary to <hi>Rom.</hi> 10. to direct People to Jeſus Chriſt as he was Crucified at <hi>Jeruſalem.</hi> But let the Bible be judge. He has not Ci<g ref="char:EOLhyphen"/>ted the Verſe, but the Verſes he aims <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhall read; Ver. 5, 6, 7, 8. For <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> deſcribeth the Righteouſneſs which is of the Law, <hi>That the Man which doth thoſe things, ſhall live by them,</hi> &amp;c. See Ver. 6, 7, 8.</p>
+               <p>
+                  <hi>Now in their Preachments they have uſed to ſtop there, and go no fur<g ref="char:EOLhyphen"/>ther. But read the 9th Verſe,</hi> If thou ſhalt confeſs with thy Mouth the Lord Je<g ref="char:EOLhyphen"/>ſus, and ſhalt believe in thine Heart, that God hath raiſed him from the Dead, thou ſhalt be ſaved, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Immediate Revelation,</hi> p. 77.</bibl> The Light reveals the WHOLE Wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of God unto him, and as he abides in the Light, and waits in it, it will manifeſt clearly in him, what he ſhould do, and what he ſhould ſhun, and he needs not go forth to ſeek a Law with<g ref="char:EOLhyphen"/>out him, or a Teacher without him: The Word is near, in his Heart, and in his Mouth; and this is the Word of Faith to which <hi>Moſes</hi> pointed the <hi>Jews,</hi> and <hi>Paul</hi> the <hi>Romans.</hi>
+            </q>
+            <q>
+               <bibl>Again, p. 106, 107.</bibl> And he calls them the Words of the Righteouſn<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of Faith, and that Word <hi>Moſes</hi> point<g ref="char:EOLhyphen"/>ed the <hi>Jews</hi> to in the Heart: He calls it the Word of Faith, and it is clear<g ref="char:punc">▪</g> he underſtands it of Chriſt; for he addeth by way of Interpretation to <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi>'s words, ſpeaking from the ſame Spirit; <hi>Say not in thine Heart, who ſhall aſcend into Heaven? That is,</hi> (ſaith he) <hi>to bring Chriſt down from above.</hi>
+            </q>
+            <q>
+               <bibl>Again, a little lower in the ſame page,</bibl> And the <hi>Jews</hi> and People of <hi>Iſrael</hi> wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lived in <hi>Moſes</hi>'s time, and WERE SAVED, it was through Faith in this Word, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Prophet, raiſed up in them, in their Hearts, not at a diſtance, but nigh the Word is nigh in thy Heart. And this is CHRIST IN THEM, the Hope o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Glory, the Myſtery hid from Ages and Generations, but was <hi>ever</hi> made manife<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in his Saints, but in the latter Days <hi>more clearly:</hi> Chriſt in all that believe the Hope of Glory.</q>
+            <p>Well Sir, I hope you will thank me for making no Comments upon the foregoing two-fac'd and double-tongu'd Quotations, I referring that part to your ſelf upon a Review: Only Querying of you, <hi>Whether they Treat of Fundamentals or no?</hi> But pray excuſe me, if I trouble you a little farther, and be pleaſed to exerciſe what <hi>little</hi> patience you may by this time have left in peruſing what I have further to offer.</p>
+            <p>I obſerve you ſay of Mr. <hi>G. Whitehead, Exact Narrative,</hi> p. 39, 40. <q>Now all theſe proofs, [<hi>Mat.</hi> 16.27, 28. <hi>Luke</hi> 9.26, 27. 1 <hi>Theſ.</hi> 4.17.] he has Allego<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ized to Chriſt within, he has Allegorized away his Birth, his Death, Reſurrection, and Aſcention, and coming to Judgment; and ſo we have nothing from Scripture to prove Chriſt's Death to be of any Benefit to us, and we have no Arguments to prove he came in the Fleſh: And ſo all the Proofs againſt <hi>Jews</hi> and <hi>Philoſophers</hi> h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> has Allegorized away.</q>
+            </p>
+            <pb n="10" facs="tcp:175452:6"/>
+            <p>But Sir, What if Mr. <hi>Keith</hi> have done the like, what will you ſay then? Perhaps the World may be ready to ſay, There is never a Barrel the better Herring of you in that reſpect. For if I were to ask Mr. <hi>Whitehead,</hi> Whether by the places you quote, his Intention was (the Explication thereof being always to be allowed to ſurviving Authors, according to your own Propoſal in a Book I have by me) thereby to overthrow the Faith of Chriſt Crucified, <hi>&amp;c?</hi> perhaps he might reply, <hi>No,</hi> and pro<g ref="char:EOLhyphen"/>duce ſome of his Books in confirmation of ſuch a denial. Then on the other hand, if it ſhould be queried of Mr. <hi>Keith,</hi> Whether he never Allegorized (for the word <hi>away</hi> we muſt in Juſtice drop on both ſides) the Birth, Crucifixion, Reſurrection, and Miracles of Chriſt? Up ſteps <hi>Immediate Revelation,</hi> and Anſwers in the <hi>Affirmative,</hi> and refers,</p>
+            <p>As to his Birth to p. 256. <q>And thus according to his Spiritual Birth in the Saints, is the Seed of Woman; for that the Saints are the <hi>Woman</hi> that bring him forth after the Spirit, and are his <hi>Mother;</hi> as <hi>Mary</hi> brought him forth after the Fleſh, and after the Spirit alſo, ſo that ſhe was the Mother of Jeſus in a <hi>double</hi> re<g ref="char:EOLhyphen"/>ſpect; for as ſhe brought him forth in her Body, ſo ſhe brought him forth in her Soul, otherwiſe he could not have been her Saviour, as <hi>Auguſtine,</hi> and long after him, <hi>Eraſmus</hi> hath well obſerved.</q> Now as to his Death and Reſurrection, ſee 244, 245. <q>And he is called the Hidden Man of the Heart, whom <hi>Paul</hi> witn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed that he lived in him, this he underſtood of Chriſt as Man; for as God he liveth in all, neither as God can he be Crucified, or Die, and yet he is Crucified in thoſe that are ungodly, in whom, as they turn from their ungodlineſs, he cometh to live, whoſe Life, as a Seed, is ſown in every Man; and as every Seed hath its Bo<g ref="char:EOLhyphen"/>dy, ſo hath this Seed its Body, which as it is raiſed up in us, the Life is raiſed up, or revealed in it; through which Life of the Man Jeſus, we have acceſs unto the Father, and have our Fellowſhip both with the Father and the Son.</q> Then for <hi>Al<g ref="char:EOLhyphen"/>gorizing</hi> his <hi>Miracles,</hi> read p. 200. <q>And we witneſs the Power of God, which wrought all theſe outward Miracles, working Miraculouſly in our Hearts, open<g ref="char:EOLhyphen"/>ing the Blind Eye of the Mind, and Deaf Ear, raiſing to Life the Dead Soul; cau<g ref="char:EOLhyphen"/>ſing the Lame to leap as an Hart, and the Tongue of the Dumb to ſpeak, <hi>&amp;c.</hi> And theſe are the GREATEST Miracles, and the outward were but a Figure of them, and were for the <hi>ſake of <g ref="char:V">Ʋ</g>nbelievers,</hi> who believed not except they ſaw.</q>
+            </p>
+            <p>Thus far <hi>Immediate Revelation.</hi> Now Mr. <hi>Keith,</hi> I can ſee no other Remedy, but <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou muſt either cry <hi>Peccavi,</hi> if you would have Mr. <hi>Whitehead</hi> to do ſo too, or elſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame him not whilſt you are tardy your ſelf; for,
+<q>Turpe eſt doctori, cum culpa redarguit ipſum.</q>
+            </p>
+            <p>But as a farther Confirmation hereof, and to evince that you have once had as high <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Opinion (for ought I can perceive) and have given as high Titles (perhaps as <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Whitehead,</hi> or any other <hi>Quaker</hi>) to what they call the Light within; and you <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ewiſe in the aforementioned Treatiſe ſometimes call ſo too, as well as Chriſt
+<pb n="11" facs="tcp:175452:6"/> within, the Seed, Birth, Spirit, Wiſdom, <hi>&amp;c.</hi> I here preſent you with ſome of them.</p>
+            <p>Page 4. <hi>The Object and Foundation of Faith.</hi>
+            </p>
+            <p n="12">12. <hi>The Body, and Fleſh, and Blood of Chriſt.</hi>
+            </p>
+            <p n="40">40. <hi>The Greateſt, and moſt Principal, and abſolutely neceſſary Means and Inſtrument of conveying Life unto Man.</hi>
+            </p>
+            <p>52, 53. <hi>The Key of Knowledge.</hi>
+            </p>
+            <p n="71">71. <hi>Man's Bleſſedneſs; his Habitation of Reſt, and Peace, and Joy. Chriſt the ex<g ref="char:EOLhyphen"/>preſs Image of God in Man. Man's Life.</hi>
+            </p>
+            <p n="72">72. <hi>The Tree of Life.</hi>
+            </p>
+            <p n="74">74. <hi>The Lamb ſlain in Man from the Foundation of the World.</hi>
+            </p>
+            <p n="77">77. <hi>That New and Living Way. The Word of Faith.</hi>
+            </p>
+            <p n="86">86 <hi>The Kingdom of God. The ſtronger than the ſtrong Man. The Lion of the Tribe of</hi> Judah. <hi>Wonderful, Counſellor, the Mighty God, the Everlaſting Father, the Prince of Peace; the</hi> Emmanuel.</p>
+            <p n="87">87. <hi>King, Prieſt, and Prophet. The Meſſenger of the Lord of Hoſts to Man. Man's Advocate unto God. The alone Mediator.</hi>
+            </p>
+            <p n="92">92. <hi>The Word of God. The Spring of Man's Life. The Word of Life, and Heaven<g ref="char:EOLhyphen"/>ly Power, and Virtue.</hi>
+            </p>
+            <p n="96">96. <hi>In whom all the Promiſes are Yea and Amen.</hi>
+            </p>
+            <p n="100">100. <hi>The <g ref="char:V">Ʋ</g>ndermoſt Stone. The FO<g ref="char:V">Ʋ</g>NDATION Stone. The Corner Stone. A Living Stone, which is Life and Spirit.</hi>
+            </p>
+            <p n="101">101. <hi>A Foundation. The Revelation of the Arm of the Lord in Man's Heart.</hi>
+            </p>
+            <p n="112">112. <hi>The Anointing. The Lamb. The Witneſs. Known to be a Saviour. The Wiſdom and Power of God.</hi>
+            </p>
+            <p n="115">115. <hi>The very F<g ref="char:V">Ʋ</g>LNESS of God himſelf.</hi>
+            </p>
+            <p n="125">125. <hi>The Treaſure hid in the Field in them. The Piece of Money loſt in the Houſe in them.</hi>
+            </p>
+            <p n="127">127. <hi>The Seeds-man, the Seed, and alſo the precious Fruit. That Life which was in the Beginning.</hi>
+            </p>
+            <p n="151">151. <hi>The OBJECT of his Knowledge that overcometh.</hi>
+            </p>
+            <p n="193">193. <hi>The Word of their,</hi> viz. <hi>the Lamb's Followers Teſtimony. The Sword of the Spi<g ref="char:EOLhyphen"/>rit, which is the Word of God.</hi>
+            </p>
+            <p n="238">238. <hi>The Heavenly Man, or Second</hi> Adam.</p>
+            <p n="242">242. <hi>The Goſpel preached in every Creature.</hi>
+            </p>
+            <p n="244">244. <hi>The Hidden Man of the Heart.</hi>
+            </p>
+            <p n="256">256. <hi>The Seed of the Woman. That Man-child which</hi> John <hi>the Beloved Diſciple, ſaw brought forth by the Woman that was cloathed with the Sun and Moon under her Feet.</hi>
+            </p>
+            <p>But reviewing your <hi>Exact Narrative,</hi> I find a paſſage which ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ems Calculated for the Meridian of a <hi>Recantation,</hi> enough, one would think, to perſwade the Incredu<g ref="char:EOLhyphen"/>lous World, that you are juſt mounting the <hi>Stool of Repentance;</hi> I read it thus, p. 35. <q>I thank God, that hath given me that humble Heart, that if they bring any paſ<g ref="char:EOLhyphen"/>ſage
+<pb n="12" facs="tcp:175452:7"/> out of my Books that is not to be juſtified, I will own my Errour and Shortneſs.</q> Now if they would do the like it would be well. And therefore to lay it the more home upon you both, I would Counſel both Parties, ſo far as either or both of you are concerned, to take the advice given in your Preface, <hi>viz.</hi> 
+               <q>But if they really diſown theſe groſs and vile Errours, which I have proved them guil<g ref="char:EOLhyphen"/>ty of in this following Narrative, and be Cordial <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the belief and acknowledgment of the great Fun<g ref="char:EOLhyphen"/>damental Truths oppoſite to theſe Errours then it will be that which the ſincere Profeſſors of <hi>Chriſti<g ref="char:EOLhyphen"/>anity</hi> in theſe three Nations will expect from them, and may juſtly require of them, as publickly to re<g ref="char:EOLhyphen"/>tract and renounce theſe Errours, as they have publickly aſſerted them in their Printed Books, in the Face of the Chriſtian World, otherwiſe no ſincere <hi>Chriſtians</hi> will believe them to be in good Earneſt, but that they reſemble many Old Hereticks, and particularly the Crafty <hi>Arrians,</hi> that pretended and made great Proteſtations, that they owned the true Faith, according to all contained in the Scriptures, when they did nothing leſs.</q>
+            </p>
+            <p>Now Sir, Example<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being more prevalent than Precepts, do you lead the way, and if they do not fol<g ref="char:EOLhyphen"/>low, you will have acquitted your ſelf, and ſo far left them without Excuſe, if in Obſtinacy they ſhould refuſe to write after your Copy. For I hope you will by this time be Convinced, that the above Quota<g ref="char:EOLhyphen"/>tions are ſo diametrically oppoſite to each other, that they cannot all be true and ſound Doctrine. But if ſhould ſtill remain of another Mind, and think them all defenſible, you would do well to reconcile them ſo as to evidence it to others; which if you ſhould forbear to endeavour, I muſt then tell you, <hi>That the ſincere Profeſſors of Christianity, may juſtly require of you publickly in Print, to retract and renounce thoſe that by Scripture and Sound Reaſon you cannot defend:</hi> For Mr. <hi>Keith,</hi> we have an Old Proverb a<g ref="char:EOLhyphen"/>mongſt us, <hi>That which is Sauce for the Gooſe, is Sauce for the Gander.</hi>
+            </p>
+            <p>Furthermore, it is expected of you, that you ſhould once come to ſtability, and no longer be like <hi>Caeſar</hi> at the River <hi>Rubicon,</hi> one while a mind to go back, another while a mind to go forward; one while profeſs your ſelf a <hi>Quaker,</hi> another while <hi>almoſt aſhamed of the Name:</hi> But either come wholly over to the <hi>Church</hi> of <hi>England</hi> (to whom you ſeem much inclined, and who ſeems ready with open Arms to receive you, as a true Penitent) and thereby make amends for your ſo long joining with the <hi>Quakers</hi> (who have ſo fiercely oppoſed Her) whereby in probability you may obtain a Settlement, which may prevent the <hi>Ruin of your ſelf and Family,</hi> you ſeem ſo apprehenſive of by leaving the <hi>Qua<g ref="char:EOLhyphen"/>kers;</hi> who perhaps in Retaliation of your good Service, may be pleaſed to Reward you with ſome <hi>Ec<g ref="char:EOLhyphen"/>cleſiaſtical</hi> Preferment, which your great Learning and Abilities may Entitle you to. Or elſe e'ne turn back to your late <hi>Abdicated</hi> Opinions, and once more embrace your forſaken Friends with a Brotherly Love, if after all the Affronts you have put upon them, they will yet receive you. For in ſhort, nei<g ref="char:EOLhyphen"/>ther God, nor good Men love a <hi>Laodicean</hi> Lukewarmneſs; but if you continue ſo, neither hot nor cold, will be ready to Spew you out of their Mouths.</p>
+            <p>Thus have I adventured to gi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you my Opinion, and ſo intend to conclude, deſigning brevity, be<g ref="char:EOLhyphen"/>cauſe I would take the Poets Advice,</p>
+            <epigraph>
+               <q>Contra verboſum, noli contendere verbis.</q>
+            </epigraph>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Yours, <hi>W. C.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
